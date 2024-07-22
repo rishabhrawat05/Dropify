@@ -32,4 +32,4 @@ servlet:
     max-request-size: 2MB 
 
 upload:
- dir: C:\Users\mobitino\Desktop\dropify\images
+ dir: yourimagestoragefolder
