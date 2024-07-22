@@ -1,0 +1,28 @@
+.pagination{
+    position: relative;
+    left: 50%;
+    width: fit-content;
+    transform: translateX(-50%);
+}
+.pagination button{
+   
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: none;
+
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.pagination button.active{
+    background-color: #212529;
+    color: white;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}

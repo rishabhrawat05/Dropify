@@ -1,0 +1,14 @@
+.product-display{
+    
+    width:auto;
+    display: flex;
+    margin-left: 10%;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+   
+}
+.product-img img{
+    width: 400px;
+    padding-right: 10%;
+}
